@@ -1,10 +1,10 @@
 ***
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C37F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=ASTA-MD;MADE+BY+DAVE+MIRACLE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C37F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=ASTA-BOT;©+⚔️+DAVE+⚔️" alt="Typing SVG" /></a>
 
 ***
 
-<p align = center>   <img src="https://files.catbox.moe/whar66.jpg"</p>
+<p align = center>   <img src="https://files.catbox.moe/0m1izg.webp"</p>
 <p align="center">
 
    </p>
