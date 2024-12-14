@@ -15,10 +15,10 @@ let dec = `
 ══════════ ⚔️ ══════════  
                      *ASTA* - *BOT*  
   ══════════ ⚔️ ══════════
-> *Runtime*  : ${runtime(process.uptime())}
-> *Mode*     : *[${config.MODE}]*
-> *Prefix*    : *[${config.PREFIX}]*
-> *Ram* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
+> *Runtime*  
+> *Mode*     
+> *Prefix*    
+> *Ram* 
  
 │▸*⚔️* *ᴄʀᴇᴀᴛᴏʀ* : *➺ᴅᴀᴠᴇ
 │▸*⚔️* *ᴠᴇʀsɪᴏɴ* : *ᴠ2.1*
